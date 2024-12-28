@@ -1,4 +1,4 @@
-# Currency-Exchange-Micro-Service
+# Currency-Exchange-Micro-Service Project contains sample code for
 # Circuit breaker pattern
 # Bulkhead pattern
 # Api gateway pattern
