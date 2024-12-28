@@ -1,0 +1,12 @@
+H2 db url : http://localhost:8081/h2-console/
+
+
+
+
+
+hiting service rapidly from powershell:
+
+while ($true) {
+    curl http://localhost:8084/currency-conversion/retrieveTotalExchangeValue/euro/inr/10
+    Start-Sleep -Milliseconds 100
+}
